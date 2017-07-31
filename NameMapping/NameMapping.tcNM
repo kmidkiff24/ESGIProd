@@ -5890,6 +5890,183 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageClassManagementTool2" Key="{C91353DA-CE82-47B5-9CD9-6CAB57DC774B}" ParallelWalk="True">
+								<Image FileName="-1371938725" Left="10" Top="62" Right="1910" Bottom="1030" />
+								<TypeInfo Item0="{B3386FB4-847C-4917-8B97-E9315AB6815E}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelHome" Key="{984B0A7E-4EE5-4069-84A1-1DE574D9D777}" ParallelWalk="True">
+										<Image FileName="-1371938725" Left="10" Top="62" Right="1893" Bottom="1030" />
+										<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelClearfixHeader" Key="{921B6D2E-F2C4-48A5-AF84-927910691448}" ParallelWalk="True">
+												<Image FileName="-1371938725" Left="22" Top="62" Right="1881" Bottom="116" />
+												<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelLogoTrial" Key="{DAC9F1FF-777F-4544-9E1D-3671784931CD}" ParallelWalk="True">
+														<Image FileName="-1371938725" Left="22" Top="62" Right="134" Bottom="147" />
+														<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="linkCivilWarProject5" Key="{3D7E37BE-E2D1-4CB0-9D78-FE79B1012718}" ExtendedFind="True" ParallelWalk="True">
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Civil War Project (5)" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageEsgiOneOnOneAssessmentsMadeE13" Key="{B636E0BF-2B92-42BE-9540-C26D044B607F}" ParallelWalk="True">
+								<Image FileName="-956971938" Left="-3" Top="69" Right="1919" Bottom="1038" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="header" Key="{9608169B-A6E0-4609-95BA-9FFFB68E3C43}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-956971938" Left="-3" Top="69" Right="1902" Bottom="189" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Header" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="header" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textboxUsername" Key="{E4E2D8B2-BD9F-4F07-9DB0-3988AEA1B370}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-956971938" Left="1088" Top="83" Right="1198" Bottom="103" />
+												<TypeInfo Item0="{EE942C9F-7730-46B7-8ACD-3FA56B089748}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Textbox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="user-name" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="panelLoginForm" Key="{78090B29-A924-46B4-B10F-B30A5D887A6D}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-956971938" Left="995" Top="82" Right="1520" Bottom="112" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="login-form" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelLoginFormContainer" Key="{A9B8D7E4-57B2-4008-B287-F84EFAD32576}" ParallelWalk="True">
+														<Image FileName="-956971938" Left="995" Top="82" Right="1520" Bottom="112" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelRow" Key="{9587AE99-CC3A-4754-B9BB-95F647E9C19F}" ParallelWalk="True">
+																<Image FileName="-956971938" Left="1009" Top="82" Right="1506" Bottom="104" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelColMd5" Key="{3E29049E-AC7A-4F41-958E-01FE7D200027}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="244547424" Left="1216" Top="82" Right="1423" Bottom="104" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelColMd8" Key="{0FF7FB3D-04FA-4D4B-8D26-9455DAB8B343}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="244547424" Left="1289" Top="82" Right="1411" Bottom="104" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="passwordboxPassword" Key="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="244547424" Left="1295" Top="83" Right="1405" Bottom="103" />
+																						<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																							</Property>
+																							<Property Name="idStr">
+																								<Value PropertyType="0" Value="password" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="firefox" Key="{DAE87279-8029-4707-BF0C-27CE787AA9FC}" ParallelWalk="True">
@@ -6786,6 +6963,30 @@
 					<Child Name="panelMain" Owner="{CCDEF3A3-160D-4B5F-B61C-40C8721A1BC3}">
 						<Child Name="panelMain" Owner="{CF47635F-B562-44C7-9668-9591F6488D98}">
 							<Child Name="sectionPageTop" Owner="{73FD6F00-DD35-46BC-9CEA-FF7CD2E0CB0E}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageClassManagementTool2" Owner="{C91353DA-CE82-47B5-9CD9-6CAB57DC774B}">
+				<Child Name="panelHome" Owner="{984B0A7E-4EE5-4069-84A1-1DE574D9D777}">
+					<Child Name="panelClearfixHeader" Owner="{921B6D2E-F2C4-48A5-AF84-927910691448}">
+						<Child Name="panelLogoTrial" Owner="{DAC9F1FF-777F-4544-9E1D-3671784931CD}" />
+					</Child>
+				</Child>
+				<Child Name="linkCivilWarProject5" Owner="{3D7E37BE-E2D1-4CB0-9D78-FE79B1012718}" />
+			</Child>
+			<Child Name="pageEsgiOneOnOneAssessmentsMadeE13" Owner="{B636E0BF-2B92-42BE-9540-C26D044B607F}">
+				<Child Name="header" Owner="{9608169B-A6E0-4609-95BA-9FFFB68E3C43}">
+					<Child Name="textboxUsername" Owner="{E4E2D8B2-BD9F-4F07-9DB0-3988AEA1B370}" />
+					<Child Name="panelLoginForm" Owner="{78090B29-A924-46B4-B10F-B30A5D887A6D}">
+						<Child Name="panelLoginFormContainer" Owner="{A9B8D7E4-57B2-4008-B287-F84EFAD32576}">
+							<Child Name="panelRow" Owner="{9587AE99-CC3A-4754-B9BB-95F647E9C19F}">
+								<Child Name="panelColMd5" Owner="{3E29049E-AC7A-4F41-958E-01FE7D200027}">
+									<Child Name="panelColMd8" Owner="{0FF7FB3D-04FA-4D4B-8D26-9455DAB8B343}">
+										<Child Name="passwordboxPassword" Owner="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" />
+									</Child>
+								</Child>
+							</Child>
 						</Child>
 					</Child>
 				</Child>
