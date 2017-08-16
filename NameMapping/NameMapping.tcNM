@@ -2748,6 +2748,18 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="linkFeatures2" Key="{2859C311-EBD6-497F-AF4F-0BED462C726D}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1557660557" Left="910" Top="130" Right="991" Bottom="166" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/features/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -4631,6 +4643,54 @@
 																			</Property>
 																			<Property Name="href">
 																				<Value PropertyType="0" Value="https://www.esgisoftware.com/pricing/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="linkPricing2" Key="{647C68C2-5F81-439C-AF62-7F64FCEBFD67}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-2033882698" Left="1080" Top="130" Right="1152" Bottom="166" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/pricing/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="linkSupport" Key="{0AA9E4F4-1BF4-42B7-AD37-1BD8A50A0022}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="571262048" Left="1158" Top="130" Right="1235" Bottom="166" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/support/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="linkFriendsOfEsgi" Key="{5FFAB43B-4B2E-4C56-8E4F-4283D85D7FA5}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="785271088" Left="1241" Top="130" Right="1361" Bottom="166" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/friends-of-esgi/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="linkBlog" Key="{41D69126-3808-4D8E-9CB1-E99F39982E01}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-1072885275" Left="1367" Top="130" Right="1423" Bottom="166" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/blog/" Type="5" />
 																			</Property>
 																		</Properties>
 																	</Child>
@@ -6613,6 +6673,7 @@
 						<Child Name="panelContainer" Owner="{4E93B8CB-CEA1-49A6-A575-408330387C1A}">
 							<Child Name="navNavMainMegaMenu" Owner="{CEED5C3C-75B9-4DB0-99A2-905EFB170974}">
 								<Child Name="linkFeatures" Owner="{C48DD727-F751-4D59-93E6-12AA7D8B3A0E}" />
+								<Child Name="linkFeatures2" Owner="{2859C311-EBD6-497F-AF4F-0BED462C726D}" />
 							</Child>
 						</Child>
 					</Child>
@@ -6860,6 +6921,10 @@
 						<Child Name="panelContainer" Owner="{85E6EB9B-4B5F-40A0-A914-35D0F02A7FFD}">
 							<Child Name="navNavMainMegaMenu" Owner="{C63971E1-78D3-4A28-B65E-296647303DED}">
 								<Child Name="linkPricing" Owner="{190B1308-2446-4077-98D5-44D03B0614FD}" />
+								<Child Name="linkPricing2" Owner="{647C68C2-5F81-439C-AF62-7F64FCEBFD67}" />
+								<Child Name="linkSupport" Owner="{0AA9E4F4-1BF4-42B7-AD37-1BD8A50A0022}" />
+								<Child Name="linkFriendsOfEsgi" Owner="{5FFAB43B-4B2E-4C56-8E4F-4283D85D7FA5}" />
+								<Child Name="linkBlog" Owner="{41D69126-3808-4D8E-9CB1-E99F39982E01}" />
 							</Child>
 						</Child>
 					</Child>

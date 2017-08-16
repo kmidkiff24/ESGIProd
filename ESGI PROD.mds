@@ -24,7 +24,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{D0B79FD8-A9D4-4EFC-B80B-09A90A4A9598}">
 		<children>
-			<testItem name="ProjectTestItem1" key="{02439FE1-5EEE-4D45-8DDF-BDE5DE229CD4}" group="False" enabled="False" testMoniker="KDT\{8E7899C4-AD39-47A2-BC24-28B4E689AE06}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem1" key="{02439FE1-5EEE-4D45-8DDF-BDE5DE229CD4}" group="False" enabled="True" testMoniker="KDT\{8E7899C4-AD39-47A2-BC24-28B4E689AE06}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
