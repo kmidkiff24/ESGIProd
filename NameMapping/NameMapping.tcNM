@@ -5058,6 +5058,18 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="linkBlog2" Key="{FC30620A-20AB-452E-BB6A-1E73DE37E912}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="714825198" Left="1457" Top="168" Right="1527" Bottom="214" />
+																		<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="http://www.esgisoftware.com/blog/" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -6990,6 +7002,7 @@
 						<Child Name="panelContainer" Owner="{E0CEB44C-6FE0-4405-8DDE-BD113383B000}">
 							<Child Name="navNavMainMegaMenu" Owner="{7B40C3EF-FF28-4954-9DE8-5BEC9D88199D}">
 								<Child Name="linkBlog" Owner="{5F8C802C-5B01-4FA8-B0A6-CDCE72B68C2B}" />
+								<Child Name="linkBlog2" Owner="{FC30620A-20AB-452E-BB6A-1E73DE37E912}" />
 							</Child>
 						</Child>
 					</Child>
