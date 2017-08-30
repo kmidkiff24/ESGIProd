@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{5A063739-0AED-4489-ACB9-9A6B37C3E977}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="42854.1215856481" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.panelBody.panelMain.panelMain.imageVideoPlayBtnPng" objectLeft="466" objectTop="555" objectRight="691" objectBottom="792" clickPointX="571" clickPointY="647" imageFileName="tcvi38873259348528.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="42854.1216666667" objectName="Aliases.browser.BrowserWindow" objectLeft="0" objectTop="0" objectRight="1920" objectBottom="1020" clickPointX="1888" clickPointY="8" imageFileName="tcvi388739296485210.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
+	<data key="{5A063739-0AED-4489-ACB9-9A6B37C3E977}" />
 </Root>

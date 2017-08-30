@@ -37,9 +37,6 @@
 		<child name="CMT_Prod" key="{33FA5E46-6635-492C-8934-72463CB2ABCE}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMT_Prod.tcKDTest" />
 		</child>
-		<child name="AdminLogin_Prod_CBT" key="{0B410E3B-FEB1-4AA2-9728-81E7957CFFF9}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AdminLogin_Prod_CBT.tcKDTest" />
-		</child>
 	</children>
 	<folders />
 </Root>
