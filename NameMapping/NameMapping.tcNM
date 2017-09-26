@@ -2747,6 +2747,18 @@
 																					</Property>
 																				</Properties>
 																			</Child>
+																			<Child Name="imageVideoButtonPng" Key="{5B96B6E8-F4A3-4417-B4A9-5097D669E88F}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="1910051495" Left="855" Top="522" Right="887" Bottom="585" />
+																				<TypeInfo Item0="{608D2826-39DC-437A-BFD8-AB1FCF74E471}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Image" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="video_button_png" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -3769,6 +3781,27 @@
 														</Children>
 													</Child>
 												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelGeneratebut" Key="{D495C38F-A53B-4FED-96B3-CB67A84FBD42}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-315041715" Left="1249" Top="652" Right="1390" Bottom="716" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="generateBut" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="vgIcon" Key="{291A3C28-2EE2-445F-83C9-25C586196331}" ParallelWalk="True">
+												<Image FileName="-315041715" Left="1255" Top="658" Right="1384" Bottom="707" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="SVG" Type="5" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -6407,6 +6440,7 @@
 							<Child Name="panelContainerHomeVideoBgContain" Owner="{2B69735D-15E7-4194-A951-3997AC4FFAE3}">
 								<Child Name="panelRow" Owner="{F4645389-90EE-4900-A465-8335052CBF14}">
 									<Child Name="imageVideoBgImage2Png" Owner="{9CC39A5E-DDDE-4264-9317-B79DB7A7E401}" />
+									<Child Name="imageVideoButtonPng" Owner="{5B96B6E8-F4A3-4417-B4A9-5097D669E88F}" />
 								</Child>
 							</Child>
 						</Child>
@@ -6547,6 +6581,9 @@
 							<Child Name="textnodeHstudentid" Owner="{0B213521-89DD-4463-AD83-BCE1F2F0C6D9}" />
 						</Child>
 					</Child>
+				</Child>
+				<Child Name="panelGeneratebut" Owner="{D495C38F-A53B-4FED-96B3-CB67A84FBD42}">
+					<Child Name="vgIcon" Owner="{291A3C28-2EE2-445F-83C9-25C586196331}" />
 				</Child>
 			</Child>
 			<Child Name="pageEsgi7" Owner="{5AC29F4E-14B9-4D7F-9C58-B914E7410032}">
@@ -6865,5 +6902,9 @@
 			<Child Name="wndTaskListThumbnailWnd" Owner="{5321C7A8-8858-49E3-AE16-3ABB39AB1C5B}" />
 		</Child>
 	</LogicalNodes>
-	<TypeInfo StoreCodeCompletion="0" />
+	<TypeInfo StoreCodeCompletion="0">
+		<Child Hash="0" Key="{608D2826-39DC-437A-BFD8-AB1FCF74E471}">
+			<Data Properties="C3F2B45DB82C5442A85C45C96AC9F3FEUFFFFFFFFFFFFFFFFV4ZZZL" />
+		</Child>
+	</TypeInfo>
 </Root>

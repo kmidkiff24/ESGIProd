@@ -25,8 +25,8 @@
 		<child name="ParentConferencer_Prod" key="{A13E2EC0-5900-48C4-83EB-7223A2E17E36}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ParentConferencer_Prod.tcKDTest" />
 		</child>
-		<child name="HomepageVideo_Test1_2_" key="{5A063739-0AED-4489-ACB9-9A6B37C3E977}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="HomepageVideo_Test1_2_.tcKDTest" />
+		<child name="HomepageVideo_Prod" key="{5A063739-0AED-4489-ACB9-9A6B37C3E977}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="HomepageVideo_Prod.tcKDTest" />
 		</child>
 		<child name="NoStudentOverlay_Prod" key="{0C3307F3-5E98-4FAA-A603-AF3010B34B42}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NoStudentOverlay_Prod.tcKDTest" />
