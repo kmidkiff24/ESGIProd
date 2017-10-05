@@ -2467,7 +2467,7 @@
 										<Value PropertyType="0" Value="Page" Type="5" />
 									</Property>
 									<Property Name="URL">
-										<Value PropertyType="0" Value="https://www.esgisoftware.com/" Type="5" />
+										<Value PropertyType="0" Value="https://www.esgisoftware.com*" Type="5" />
 									</Property>
 								</Properties>
 								<Children>
@@ -2680,9 +2680,6 @@
 										<Properties>
 											<Property Name="ObjectType">
 												<Value PropertyType="0" Value="Panel" Type="5" />
-											</Property>
-											<Property Name="ObjectIdentifier">
-												<Value PropertyType="0" Value="2" Type="0" />
 											</Property>
 										</Properties>
 										<Children>
@@ -6440,11 +6437,11 @@
 							<Child Name="panelContainerHomeVideoBgContain" Owner="{2B69735D-15E7-4194-A951-3997AC4FFAE3}">
 								<Child Name="panelRow" Owner="{F4645389-90EE-4900-A465-8335052CBF14}">
 									<Child Name="imageVideoBgImage2Png" Owner="{9CC39A5E-DDDE-4264-9317-B79DB7A7E401}" />
-									<Child Name="imageVideoButtonPng" Owner="{5B96B6E8-F4A3-4417-B4A9-5097D669E88F}" />
 								</Child>
 							</Child>
 						</Child>
 					</Child>
+					<Child Name="imageVideoButtonPng" Owner="{5B96B6E8-F4A3-4417-B4A9-5097D669E88F}" />
 				</Child>
 				<Child Name="panelMfpWrapMfpCloseBtnInMfpAuto" Owner="{E37B7C0A-8C6B-426C-8E8D-99E78867602B}">
 					<Child Name="panelMfpContainerMfpSReadyMfpInl" Owner="{F48BAF3F-F955-4E3B-B3DC-A5FC6CB122B9}">
