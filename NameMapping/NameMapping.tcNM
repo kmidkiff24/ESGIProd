@@ -2523,28 +2523,6 @@
 																	</Property>
 																</Properties>
 																<Children>
-																	<Child Name="passwordboxPassword" Key="{7700A3F2-66BF-4174-A39F-3B9C8348BD22}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="503127374" Left="1465" Top="123" Right="1630" Bottom="153" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="PasswordBox" Type="5" />
-																			</Property>
-																			<Property Name="idStr">
-																				<Value PropertyType="0" Value="password" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
-																	<Child Name="buttonLogin" Key="{EAD2047E-3A19-4999-9BEB-5E17D5DC34F3}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="802399836" Left="1657" Top="127" Right="1712" Bottom="154" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="Button" Type="5" />
-																			</Property>
-																			<Property Name="idStr">
-																				<Value PropertyType="0" Value="loginButton" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
 																	<Child Name="panelColMd5" Key="{C32C3139-E788-4BE6-87D7-E5FF9C5D5ECB}" ParallelWalk="True">
 																		<Properties>
 																			<Property Name="ObjectType">
@@ -2575,6 +2553,28 @@
 																</Properties>
 															</Child>
 														</Children>
+													</Child>
+													<Child Name="passwordboxPassword" Key="{7700A3F2-66BF-4174-A39F-3B9C8348BD22}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="503127374" Left="1465" Top="123" Right="1630" Bottom="153" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="PasswordBox" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="password" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="buttonLogin" Key="{EAD2047E-3A19-4999-9BEB-5E17D5DC34F3}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="802399836" Left="1657" Top="127" Right="1712" Bottom="154" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="loginButton" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -5917,19 +5917,6 @@
 																						<Value PropertyType="0" Value="Panel" Type="5" />
 																					</Property>
 																				</Properties>
-																				<Children>
-																					<Child Name="passwordboxPassword" Key="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" ExtendedFind="True" ParallelWalk="True">
-																						<Image FileName="244547424" Left="1295" Top="83" Right="1405" Bottom="103" />
-																						<Properties>
-																							<Property Name="ObjectType">
-																								<Value PropertyType="0" Value="PasswordBox" Type="5" />
-																							</Property>
-																							<Property Name="idStr">
-																								<Value PropertyType="0" Value="password" Type="5" />
-																							</Property>
-																						</Properties>
-																					</Child>
-																				</Children>
 																			</Child>
 																		</Children>
 																	</Child>
@@ -5938,6 +5925,17 @@
 														</Children>
 													</Child>
 												</Children>
+											</Child>
+											<Child Name="passwordboxPassword" Key="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="244547424" Left="1295" Top="83" Right="1405" Bottom="103" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="PasswordBox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="password" Type="5" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -6408,14 +6406,14 @@
 						<Child Name="textboxUsername" Owner="{23DC022E-AC75-4BD8-80A8-8D8362A9F58E}" />
 						<Child Name="panelLoginFormContainer" Owner="{5E261F48-90D0-4EEA-9649-410FE9B86FF4}">
 							<Child Name="panelRow" Owner="{F339DDEF-E054-4F18-B78A-0D0E8069ED79}">
-								<Child Name="passwordboxPassword" Owner="{7700A3F2-66BF-4174-A39F-3B9C8348BD22}" />
-								<Child Name="buttonLogin" Owner="{EAD2047E-3A19-4999-9BEB-5E17D5DC34F3}" />
 								<Child Name="panelColMd5" Owner="{C32C3139-E788-4BE6-87D7-E5FF9C5D5ECB}">
 									<Child Name="panelColMd8" Owner="{B390B6F8-373B-40A0-8C1E-FA830F3932D6}" />
 								</Child>
 							</Child>
 							<Child Name="textnodeLostPassword" Owner="{E9D9D292-5F94-4374-BC05-7CF2EC5D5B65}" />
 						</Child>
+						<Child Name="passwordboxPassword" Owner="{7700A3F2-66BF-4174-A39F-3B9C8348BD22}" />
+						<Child Name="buttonLogin" Owner="{EAD2047E-3A19-4999-9BEB-5E17D5DC34F3}" />
 					</Child>
 					<Child Name="imageEsgiHlogo" Owner="{A05F1AF1-2B60-4F2C-BF45-F41C925AEA0C}" />
 					<Child Name="panelNavbarCollapseNavMainCollap" Owner="{D94BF80F-8DA5-4BA8-9D6A-B203F364B1AA}">
@@ -6871,13 +6869,12 @@
 						<Child Name="panelLoginFormContainer" Owner="{A9B8D7E4-57B2-4008-B287-F84EFAD32576}">
 							<Child Name="panelRow" Owner="{9587AE99-CC3A-4754-B9BB-95F647E9C19F}">
 								<Child Name="panelColMd5" Owner="{3E29049E-AC7A-4F41-958E-01FE7D200027}">
-									<Child Name="panelColMd8" Owner="{0FF7FB3D-04FA-4D4B-8D26-9455DAB8B343}">
-										<Child Name="passwordboxPassword" Owner="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" />
-									</Child>
+									<Child Name="panelColMd8" Owner="{0FF7FB3D-04FA-4D4B-8D26-9455DAB8B343}" />
 								</Child>
 							</Child>
 						</Child>
 					</Child>
+					<Child Name="passwordboxPassword" Owner="{EC23EFA2-8ACB-495A-B857-9A6B91D37116}" />
 				</Child>
 			</Child>
 		</Child>
